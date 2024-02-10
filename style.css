@@ -1,0 +1,212 @@
+body {
+
+  background-color: white;
+  font-family:  Tahoma, sans-serif;
+}
+
+
+p  {
+
+color: #111111;
+}
+
+
+.menu {
+
+    background-color: #6B4E45;
+    overflow: auto;
+}
+
+
+.menu ul {
+    
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-decoration: none;
+
+}
+
+
+.menu li {
+
+    display: inline-block;
+    text-align: center;
+
+}
+
+
+.menu li a {
+
+    display: inline-block;
+    height: auto;
+    width: 150px;
+    color: #333333;
+    background-color: #f5f5f5;
+    padding: 10px;
+    margin: 4px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 4px;
+
+}
+
+
+.menu li a:hover {
+
+    background-color: #DEC9B2;
+
+}
+
+
+.main {
+
+     background-color: #F4EADA;
+     overflow: auto;
+     text-align: center;
+     padding-top: 20px;
+     padding-bottom: 20px;
+
+
+}
+
+.main h1 {
+
+     font-weight:bold
+
+
+}
+
+
+.photo {
+
+    background-color: #F4EADA;
+    overflow: auto;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 40px;
+
+
+}
+
+
+.photo img {
+
+    border-style: solid;
+    border-width: 2px;
+    border-color: #6B4E45;
+    border-radius: 6px;
+    margin: 2px;
+    object-fit: cover;
+    object-position: top;
+
+}
+
+
+
+.footer {
+
+    background-color: #231f20; 
+    overflow: auto;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+
+.footer ul {
+
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-decoration: none;
+
+}
+
+
+.footer li {
+
+    display: inline-block;
+    text-align: center;
+
+}
+
+
+.footer li a {
+
+    display: inline-block;
+    height: auto;
+    width: auto;
+    color: #333333;
+    background-color: #f5f5f5;
+    padding: 10px;
+    margin: 4px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+
+}
+
+
+.footer li a:hover {
+
+    background-color: #DEC9B2;
+
+}
+
+h1 {
+
+    color: #6B4E45;
+    font-weight: bold;
+    font-size: 36px;
+
+}
+
+
+.main h2 {
+
+    overflow: auto;
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    padding: 10px;
+    background-color: #DEC9B2;
+    color: #6B4E45;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 30px;
+
+}
+
+
+.footer h2 {
+
+    color: #DEC9B2;
+
+}
+
+
+.footer p {
+
+    color: #f5f5f5;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
